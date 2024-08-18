@@ -1,0 +1,64 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  color: rgba(255, 255, 255, 0.87);
+}
+body{
+  background-image: url(https://jooinn.com/images/dark-cloudy-sky-29.jpg);
+  background-size: cover;
+  display: flex;
+  
+}
+h1 {
+  font-size: 3.2em;
+  line-height: 1.1;
+}
+.search-bar{
+  background-color: rgb(255, 255, 255);
+  border-radius: 8px;
+  
+}
+.display{
+  display: flex;
+  justify-content: space-between;
+  padding: 0.6em;
+}
+input{
+  cursor: pointer;
+  background: none;
+  border: none;
+  outline: none;
+  font-size: medium;
+  font-style: italic;
+  font-weight: 500;
+  color: rgb(52, 37, 139);
+}
+button{
+  background-color: rgb(4, 13, 24);
+  cursor: pointer;
+  color: rgb(52, 37, 139);
+  border: 1px solid transparent;
+  outline: none;
+  font-size: medium;
+  font-style: italic;
+  font-weight: 500;
+  padding: 0.6em 1.2em;
+  border-radius: 6px;
+}
+.weather-forecast{
+  background-color: rgb(4, 13, 24);
+  color: rgb(52, 37, 139);
+  font-size: medium;
+  font-style: italic;
+  font-weight: 500;
+  border-radius: 8px;
+  padding: 0.6em;
+}
+
+
+
+
+
+
+
+
