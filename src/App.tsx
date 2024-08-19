@@ -13,7 +13,7 @@ type TlongLat = {
   lat: string;
 };
 
-const BASE_URL = "http://api.openweathermap.org";
+const BASE_URL = "https://api.openweathermap.org";
 
 const API_KEY = "edfcbeb30e618acbfb0ee1d1fc1f65d7";
 
